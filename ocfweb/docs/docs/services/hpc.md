@@ -1,4 +1,4 @@
-[[!meta title="High Performance Computing"]]
+[[!meta title="High performance computing"]]
 
 **NOTE: We are in the process of trialling this service to users so that we can make the service as accommodating and secure as possible. This means that items concerning the service, including this documentation, are subject to change. We will do our best to keep everyone updated and notified of changes as they come.**
 
